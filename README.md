@@ -1,2 +1,0 @@
-# matchQuizInReact
-Created with CodeSandbox
